@@ -7,22 +7,6 @@ Here are some typical ones:
 
 >Jellydb: The simplest and fault-tolerant NOSQL database for storing messages by keys
 
-### Languages and Tools:
-<div id="badges">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="30"/>
-</div>
-
 ### Contact with me:
 <div id="badges">
   <a href="https://linkedin.com/in/usman-baibikov-9b072422b">
