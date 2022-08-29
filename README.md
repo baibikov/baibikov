@@ -23,9 +23,6 @@ Here are some typical ones:
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="30"/>
 </div>
 
-### Leetcode:
-![Leetcode Stats](https://leetcard.jacoblin.cool/usmanbaibikov?theme=nord)
-
 ### Contact with me:
 <div id="badges">
   <a href="https://linkedin.com/in/usman-baibikov-9b072422b">
