@@ -5,7 +5,7 @@ Here are some typical ones:
 
 >Jellyfish: is simple message queue.
 
->Jellydb: The simplest and fault-tolerant NOSQL database for storing messages by keys
+>Jellydb: The simplest and fault-tolerant NoSQL database for storing messages by keys
 
 ### Contact with me:
 <div id="badges">
