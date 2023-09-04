@@ -1,11 +1,4 @@
 ### :raised_hand: Hi there 
-I am a flex programmer from the coolest country. Sooooo, I write all sorts of cool things under high load and fault tolerance.
-
-Here are some typical ones:
-
->Jellyfish: is simple message queue.
-
->Jellydb: The simplest and fault-tolerant NoSQL database for storing messages by keys
 
 ### Contact with me:
 <div id="badges">
